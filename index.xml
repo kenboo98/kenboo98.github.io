@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenta Watanabe Tellambura</title>
+    <link>https://kenta.ca/</link>
+    <description>Recent content on Kenta Watanabe Tellambura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    
+	<atom:link href="https://kenta.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://kenta.ca/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kenta.ca/about-me/</guid>
+      <description>Hello, my name is Kenta and I&amp;rsquo;m a Software Engineering student studying at the University of Alberta. My passion is programming and I have a strong interest in large scale infrastructure.
+Previously, I worked at Demonware Inc. in Vancouver, BC as an intern on the Capacity Planning and Monitoring Team. I worked with Monitoring infrastructure that monitors some of the biggest Activision titles such as Call of Duty and Crash Bandicoot.</description>
+    </item>
+    
+  </channel>
+</rss>
